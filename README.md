@@ -1,5 +1,5 @@
 # TrabalhofinalSITE
-;<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <title>Games</title>
 <meta charset="UTF-8">
