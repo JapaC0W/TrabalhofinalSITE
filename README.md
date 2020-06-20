@@ -59,6 +59,9 @@
   </div>
 </div>
 
+
+
+
 <!-- Modal -->
 <div id="id01" class="w3-modal">
   <div class="w3-modal-content w3-card-4 w3-animate-top">
@@ -69,7 +72,7 @@
     </header>
     <div class="w3-container">
       <p>Vamos te ajudar</p>
-      <p>TUDO SOBRE GAMES <a class="w3-text-teal" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!</p>
+      <p>TUDO SOBRE GAMES <a class="w3-text-teal" href="Games.com">Para ajuda</a> E para Jogar </p>
     </div>
     <footer class="w3-container w3-teal">
       <p>Bora ?</p>
