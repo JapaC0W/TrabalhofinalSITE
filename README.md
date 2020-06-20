@@ -59,6 +59,29 @@
   </div>
 </div>
 
+<!-- Modal -->
+<div id="id01" class="w3-modal">
+  <div class="w3-modal-content w3-card-4 w3-animate-top">
+    <header class="w3-container w3-teal w3-display-container"> 
+      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-teal w3-display-topright"><i class="fa fa-remove"></i></span>
+      <h4>Esse é o melhor site sobre games que você vera hoje</h4>
+      <h5>Qual a sua dúvida hoje?<i class="fa fa-smile-o"></i></h5>
+    </header>
+    <div class="w3-container">
+      <p>Vamos te ajudar</p>
+      <p>TUDO SOBRE GAMES <a class="w3-text-teal" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!</p>
+    </div>
+    <footer class="w3-container w3-teal">
+      <p>Bora ?</p>
+    </footer>
+  </div>
+</div>
+
+
+
+
+
+
 <!-- Team Container -->
 <div class="w3-container w3-padding-64 w3-center" id="team">
 <h2>Jogadores do mês</h2>
